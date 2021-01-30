@@ -5,4 +5,4 @@
 
 ## Карта
 
-!![Ñiziel](/img/ñiziel.png)
+!![Ñiziel](/img/ñiziel.jpg)
