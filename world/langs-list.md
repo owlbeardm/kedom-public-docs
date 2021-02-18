@@ -20,7 +20,7 @@ Native names are written in `**`bold`**`
 | Gnomish                                   | Gnomes                                                                                |
 | Goblin                                    | Goblins, hobgoblins, bugbears                                                         |
 | Halfling                                  | Halflings                                                                             |
-| Lizardfolk                                | Lizardfolds                                                                           |
+| Lizardfolk                                | Lizardfolks                                                                           |
 | Necril                                    | - Necromancers  <br>- Ghouls, intelligent undead                                      |
 | Orcish                                    | - Orcs   <br>- Half-orcs                                                              |
 | Sylvan                                    | - Fey ancestries   <br>- Plant creatures                                              |
