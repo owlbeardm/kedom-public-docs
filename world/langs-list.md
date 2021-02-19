@@ -23,7 +23,7 @@ Native names are written in `**`bold`**`
 | Lizardfolk                                | Lizardfolks                                                                           |
 | Necril                                    | - Necromancers  <br>- Ghouls, intelligent undead                                      |
 | Orcish                                    | - Orcs   <br>- Half-orcs                                                              |
-| Sylvan                                    | - Fey ancestries   <br>- Plant creatures                                              |
+| **Aldarin** (Sylvan)                                    | - Fey ancestries   <br>- Plant creatures                                              |
 | Undercommon                               | - Drow   <br>- Duergars   <br>- Xulgaths                                              |
 | **Þhirnehsilð**                           | Þhirnehs (Kobolds)                                                                    |
 

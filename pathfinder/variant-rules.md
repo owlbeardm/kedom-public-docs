@@ -24,12 +24,3 @@
 
 - **Disarm**, **Escape**, **Grapple**, **Shove**, **Trip** is *agile*.
 - Defender gets *lesser cover* from attack if a line drawn between the center of defender space and the center of attacker space pass through space occupied with any creature. Creature's size must be equal or larger than defender.
-
-
-**Lorem ipsum dolor sit amet**
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis.
-
-**Lorem ipsum dolor sit amet**
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis.

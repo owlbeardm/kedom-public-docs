@@ -14,8 +14,9 @@
 
 ## Elven
 
-- Словарь [tecendil](https://www.tecendil.com/). В нём можно найти слова на SINDARIN. Это у меня эльфийский.
+- Словарь — [tecendil](https://www.tecendil.com/). В нём можно найти слова на **SINDARIN** — эльфийский в этом сеттинге.
 - [http://sindarinlessons.weebly.com/37---how-to-make-names-1.html](http://sindarinlessons.weebly.com/37---how-to-make-names-1.html) — правила объеденения слов.
+    - in-depth guide [https://eldamo.org/content/phonetic-indexes/phonetics-s.html](https://eldamo.org/content/phonetic-indexes/phonetics-s.html)
 - [http://sindarinlessons.weebly.com/38---how-to-make-names-2.html](http://sindarinlessons.weebly.com/38---how-to-make-names-2.html) — суффиксы для имён.
 
 ## Sylvan
