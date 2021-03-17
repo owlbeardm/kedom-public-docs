@@ -5,13 +5,13 @@
 1. Increase your level by 1.
 1. Increase your maximum Hit Points by the amount listed in your [class entry](https://2e.aonprd.com/Classes.aspx).
 1. Add **class features** from your [class](https://2e.aonprd.com/Classes.aspx) advancement table.
-1. Select feats as indicated on your [class](https://2e.aonprd.com/Classes.aspx) advancement table. For ancestry feats, see [Ancestries](https://2e.aonprd.com/Ancestries.aspx). For class feats, see your [class entry](https://2e.aonprd.com/Classes.aspx). For general feats and skill feats, see [Feats](https://2e.aonprd.com/Feats.aspx) (skill feats type of general feats, so you can select skill feat in place of general feat).
+1. Select feats as indicated on your [class](https://2e.aonprd.com/Classes.aspx) advancement table. For ancestry feats, see [Ancestries](https://2e.aonprd.com/Ancestries.aspx). For class feats, see your [class entry](https://2e.aonprd.com/Classes.aspx). For general feats and skill feats, see [Feats](https://2e.aonprd.com/Feats.aspx) (*skill feats* type of *general feats*, so you can select *skill feat* in place of *general feat*).
 1. Add spells and spell slots if your class grants spellcasting. See [Spells](https://2e.aonprd.com/Spells.aspx) for spells. If your class has *signature spells* feature select them. (Note that your cantrips and focus spells heightened to maximum level available to you)
 1. Gain ability boosts as staited in [Gradual Ability Boosts](https://2e.aonprd.com/Rules.aspx?ID=1300).
 1. Add new bonus from [Automatic Bonus Progression](https://2e.aonprd.com/Rules.aspx?ID=1357) table.
 1. Adjust bonuses from feats and other abilities that are based on your level or you proficiencies.
 
-## Leveling-Up in **character.pf2.tools**
+### Leveling-Up using **character.pf2.tools**
 
 1. Increase your level by 1.  
    !![](screen/level-1.png)
