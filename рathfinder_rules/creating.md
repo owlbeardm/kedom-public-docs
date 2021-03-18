@@ -232,4 +232,6 @@ I'm using [Expanded Rules](/рathfinder_rules/variant-rules/) in this setting. S
 
 #### Finished character
 
+Finised [Merlin's sheet](https://character.pf2.tools/?zL7coqH6).
+
 ![](screen/merlin-lvl-1.png){align=right}
