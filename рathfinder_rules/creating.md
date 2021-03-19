@@ -12,37 +12,10 @@ Players can select any valid **Common** option. **Uncommon**, **Rare** and **Uni
 
 ### Step 1. Create a Concept
 
-This includes such options as [Ancestry](https://2e.aonprd.com/Ancestries.aspx), [Background](https://2e.aonprd.com/Backgrounds.aspx), [Class](https://2e.aonprd.com/Classes.aspx). It doesn't have to be exact mechanical options. Just vague copcept of what you hero will be.  
+This includes such options as [Ancestry](https://2e.aonprd.com/Ancestries.aspx), [Class](https://2e.aonprd.com/Classes.aspx), [Background](https://2e.aonprd.com/Backgrounds.aspx). It doesn't have to be exact mechanical options. Just vague copcept of what you hero will be.  
 Create a name for you character (Please use [guidlines](/world/names/) and consult with GM).
 
-In this setting rarity of Classes and Ancestries are differs from original rules:
-
-??? info "Classes"
-    ##### Common Classes
-    - Alchemist
-    - Barbarian
-    - Bard
-    - Champion
-    - Cleric
-    - Druid
-    - Fighter
-    - Investigator
-    - Oracle
-    - Ranger
-    - Rogue
-    - Sorcerer
-    - Swashbuckler
-    - Witch
-    - Wizard
-
-    ##### Uncommon Classes
-    - Monk
-
-    ##### TBD Classes (rules not released yet)
-    - Gunslinger
-    - Inventor
-    - Magus
-    - Summoner
+In this setting rarity of Ancestries and Classes are differs from original rules:
 
 ??? comment "Ancestries"
     ##### Common Ancestries
@@ -71,6 +44,35 @@ In this setting rarity of Classes and Ancestries are differs from original rules
 
     ##### Rare and unique Ancestries
     - The rest
+
+??? info "Classes"
+    ##### Common Classes
+    - Alchemist
+    - Barbarian
+    - Bard
+    - Champion
+    - Cleric
+    - Druid
+    - Fighter
+    - Investigator
+    - Oracle
+    - Ranger
+    - Rogue
+    - Sorcerer
+    - Swashbuckler
+    - Witch
+    - Wizard
+
+    ##### Uncommon Classes
+    - Monk
+
+    ##### TBD Classes (rules not released yet)
+    - Gunslinger
+    - Inventor
+    - Magus
+    - Summoner
+
+
 
 ### Step 2. Ancestry
 
@@ -125,9 +127,9 @@ New Hero starts with 15 gp. You can save time by buying kit for you class: [Clas
 
 Calculations of modifies and stats from all options selected. If you use [character.pf2.tools](https://character.pf2.tools/) it is done automatically.
 
-#### Creating caracter using **character.pf2.tools**
+## Creating caracter using **character.pf2.tools**
 
-##### Step 1. Concept
+### Step 1. Concept
 
 Lets's create Merlin character. That makes him *human* *wizard* with already established name. 
 
@@ -135,7 +137,7 @@ Lets's create Merlin character. That makes him *human* *wizard* with already est
 
 Merlin's traditional biography casts him as a cambion, a being born of a mortal woman, sired by an incubus. That makes him *tiefling*. Merlin matures to an ascendant sagehood and engineers the birth of Arthur through magic and intrigue. Some king of *scholar* character.
 
-##### Step 2. Ancestry
+### Step 2. Ancestry
 
 Merlin is [Human](https://2e.aonprd.com/Ancestries.aspx?ID=6). Which gives him **8 hp**, **medium size**, **25 feet land speed**, **2 free ability boosts**, **Common + 1 + your Intelligence modifier additional languages**.
 
@@ -149,7 +151,7 @@ For his ancestry feat we'll choose **Devil's Advocate**.
 
 !![](screen/step-1-f.gif)
 
-##### Step 3. Class
+### Step 3. Class
 
 We established that Merlin is [Wizard](https://2e.aonprd.com/Classes.aspx?ID=12). Often called enchanter.
 
@@ -161,13 +163,13 @@ Wizard gets two subclass options. [Arcane School](https://2e.aonprd.com/ArcaneSc
 
 !![](screen/step-2-o.gif)
 
-##### Step 4. Background
+### Step 4. Background
 
 Merlin's background would be [Scholar](https://2e.aonprd.com/Backgrounds.aspx?ID=36). Which gives **Int** or **Wis** and free ability boost. Trained proficiency in **Arcana**, **Nature**, **Occultism**, or **Religion** skill, and the **Academia Lore** skill. And **Assurance** skill feat.
 
 !![](screen/step-3.gif)
 
-##### Step 5. Abilities
+### Step 5. Abilities
 
 4 free abilities:
 
@@ -198,19 +200,19 @@ Wizard's class features are:
     !![](screen/step-5-at.gif)
 
 
-##### Step 6. Equipment
+### Step 6. Equipment
 
 [Wizard Kit](https://2e.aonprd.com/ClassKits.aspx?Class=12) comes with **staff**,  **adventurer's pack**, **material component pouch**, **writing set** and optional **crossbow** with **20 bolts**. We'll take all of it which lefts us with 8 gp 8 sp.
 
 !![](screen/step-6.gif)
 
-##### Step 7. The rest
+### Step 7. The rest
 
 All bonuses are automatically calculated. But Merlin doesn't have any attacks displayed. We'll add staff and crossbow that are already bought: 
 
 !![](screen/step-7-a.gif)
 
-##### Extra Step. Character setup
+### Extra Step. Character setup
 
 I'm using [Expanded Rules](/рathfinder_rules/variant-rules/) in this setting. So some options should be enabled in character.pf2.tools when character created:
 
@@ -230,7 +232,7 @@ I'm using [Expanded Rules](/рathfinder_rules/variant-rules/) in this setting. S
     !![](screen/step-e-pub.gif) 
 
 
-#### Finished character
+## Finished character
 
 Finised [Merlin's sheet](https://character.pf2.tools/?zL7coqH6).
 
