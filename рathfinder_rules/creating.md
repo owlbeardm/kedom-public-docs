@@ -242,4 +242,5 @@ Finised [Merlin's sheet](https://character.pf2.tools/?zL7coqH6).
 *[skill feat]: At 2nd level and every 2 levels thereafter, most classes gain a skill feat, though rogues gain them earlier and more often. Your character must be trained in the corresponding skill to take a skill feat.
 *[general feat]: Most classes grant a general feat at 3rd level and every 4 levels thereafter. At each of these levels, you can select any general feat (including skill feats) as long as your character qualifies for it. 
 *[ability boosts]: Boost for your ability score. An ability boost normally increases an ability score’s value by 2. However, if the ability score to which you’re applying an ability boost is already 18 or higher, its value increases by only 1. At 1st level, a character can never have any ability score that’s higher than 18.
-*[GM]: Hyper Text Markup Language
+*[GM]: Gamemaster (DM or dungeon masters). Person who runs a game, describes the events taking place and decides on the outcomes of players' decisions.
+*[Versatile Heritage]: Some individuals are born under far stranger circumstances, such as a monstrous, undead, or extraplanar parent, a powerful curse, or an incursion of extraplanar energies. As these circumstances aren't unique to a single ancestry, these heritages—called versatile heritages—are likewise shared by many ancestries.
