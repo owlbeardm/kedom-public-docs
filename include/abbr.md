@@ -1,5 +1,0 @@
-*[class features]: Abilities that you gain from you class. Can be found in table on class page.
-*[skill feat]: At 2nd level and every 2 levels thereafter, most classes gain a skill feat, though rogues gain them earlier and more often. Your character must be trained in the corresponding skill to take a skill feat.
-*[general feat]: Most classes grant a general feat at 3rd level and every 4 levels thereafter. At each of these levels, you can select any general feat (including skill feats) as long as your character qualifies for it. 
-*[ability boosts]: Boost for your ability score. An ability boost normally increases an ability score’s value by 2. However, if the ability score to which you’re applying an ability boost is already 18 or higher, its value increases by only 1. At 1st level, a character can never have any ability score that’s higher than 18.
-*[GM]: Hyper Text Markup Language

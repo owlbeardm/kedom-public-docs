@@ -2,6 +2,9 @@
 
 ## Leveling-Up Checklist
 
+!!! note
+    If you are using *character.pf2.tools* some of the steps can be automated (see [below](#leveling-up-using-character-pf2-tools)).
+
 1. Increase your level by 1.
 1. Increase your maximum Hit Points by the amount listed in your [class entry](https://2e.aonprd.com/Classes.aspx).
 1. Add **class features** from your [class](https://2e.aonprd.com/Classes.aspx) advancement table.
