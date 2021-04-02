@@ -8,7 +8,7 @@ Native names are written in `**`bold`**`
 
 | Language                                  | Speakers                                                                              |
 |-------------------------------------------|---------------------------------------------------------------------------------------|
-| **Nitholan** (*common in Ñiziel*)         | - Ñizoles (*Human nitholans*) <br>- Halflings<br>- ... and other common ancestries in the aria   |
+| **Nitholan** (*common in Ñiziel* and lingua franca)         | - Ñizoles (*Human nitholans*) <br>- Halflings<br>- ... and other common ancestries in the aria   |
 | **Nerlendic** (*common in Nerlend*)       | - Human nerlenders<br>- Elves<br>- ... and other common ancestries in the aria        |
 | **Valtarchi** (*common in Valtam Kelnem*) | - Human valtarchams<br>- Querums<br>- Halflings<br>- ... and other common ancestries in the aria |
 | **Chultian**                              | Chulti (*Ratfolks*)                                                                   |
