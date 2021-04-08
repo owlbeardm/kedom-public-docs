@@ -1,7 +1,7 @@
 # Ñiziel
 
 !!! info "*Ñiziel*"
-    / ɲiθel / Nithel, Нитэль
+    / ɲiθjel / nyith-YEL, Нитэль
 
 ## Карта
 

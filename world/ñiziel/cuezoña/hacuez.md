@@ -1,7 +1,7 @@
 # Hacuez
 
 !!! info "*Hacuez*"
-    / akʷeθ / Aqueth, Аквэс
+    / akʷeθ / uh-KWETH, *Аквэс*
 
 ## Места
 

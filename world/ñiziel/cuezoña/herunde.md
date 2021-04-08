@@ -1,4 +1,4 @@
 # Herunde
 
 !!! info "*Herunde*"
-    / erunde / Aerund, Эрунд
+    / erunde / eh-RUUN-deh, Эрунд

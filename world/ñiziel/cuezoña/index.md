@@ -1,7 +1,7 @@
 # Cuezoña
 
 !!! info "*Cuezoña*"
-    / kʷeðoɲa / Quethon, Кведония
+    / kʷeðoɲa / kweh-DHO-nya, Кведония
 
 ## Карта
 
