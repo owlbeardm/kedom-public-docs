@@ -151,11 +151,11 @@ body {
 }
 
 .md-typeset ul li ul, .md-typeset ul li ol, .md-typeset ol li ul, .md-typeset ol li ol {
-  margin: .0em 0 .0em .625em;
+  /* margin: .0em 0 .0em .625em; */
 }
 
 .md-typeset ul li, .md-typeset ol li {
-  margin-bottom: .0em;
+  /* margin-bottom: .0em; */
 }
 
 .md-typeset figcaption {
@@ -195,12 +195,12 @@ body {
 
 .tengwar-elf-font {
   font-family: 'Annatar';
-  /* font-size: 112.5%; */
+  font-size: 112.5%;
 }
 
 .tengwar-sylvan-font {
   font-family: 'Annatar';
-  /* font-size: 112.5%; */
+  font-size: 112.5%;
 }
 
 .orc-font {
