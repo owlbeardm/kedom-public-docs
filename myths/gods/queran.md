@@ -11,6 +11,8 @@
 **Martetor** is the main god of queran pantheon. God of knowledge and duty. Founder of The Empire. *Martetor* is regarded as the patron and protector of majority of cities and defensive structures.
 
 ## Quilissa
+
+![Quilissa symbol](img/quilissa.svg){ width=200; align=right }
  
 <small>
 *nith.*  / kwelessa / Cuelessa   
@@ -18,8 +20,13 @@
 *quer.*  / kʷilissa / Quilissa   
 </small>
 
+
 **Quilissa** is a goddess associated with knowledge, wisdom, handicraft, magic and protection.
 
+**Edicts** seek out new or lost arcane knowledge, create artifacts  
+**Anathema** destroy unique knowledge or artifacts  
+**Areas of Concern** lost knowledge  
+**Follower Alignments** LG, NG, CG, N  
 
 ??? info "Devotee Benefits"
     **Divine Ability**: Wisdom or Intelligence  
