@@ -218,7 +218,7 @@ I'm using [Expanded Rules](/рathfinder_rules/variant-rules/) in this setting. S
 
 - **Proficiency without Level**: use no level in bonuses.
     !![](screen/step-e-lvl.gif)
-- **Automatic Bonus Progression**: create `ADJUSTMENT` \ `AUTOMATIC BONUS PROGRESSION` and paste there 
+- **Automatic Bonus Progression**: create in CHARACTER \ ADJUSTMENTS "`AUTOMATIC BONUS PROGRESSION`" and paste there 
         ``` 
             ATTACK +0 ITEM
             SKILLNAME +0 ITEM
