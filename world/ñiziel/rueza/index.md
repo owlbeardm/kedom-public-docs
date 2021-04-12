@@ -1,7 +1,7 @@
 # Rueza
 
 !!! info "*Rueza*"
-    / rweθa / RWEH-thuh, *Руэта*
+    / rweθa / RRWEH-thuh, *Руэта*
 
 ## Map
 
