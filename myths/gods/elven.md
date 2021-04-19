@@ -11,6 +11,8 @@
 
 ## Gildir
 
+![Gildir symbol](img/gildir.svg){ width=150; align=right }
+
 <small>
 *edh.*  / gildir / <span class="tengwar-elf-font">xj%26T</span>  
 </small>
