@@ -4,7 +4,7 @@
 
 <small>
 *nith.*  / marθwer / Marzuer  
-*ner.*  / marθiðor / 𐌼𐌰𐍂𐌸𐌹𐌳𐍉𐍂  
+*ner.*  / martiðar / 𐌼𐌰𐍂𐍄𐌹𐌳𐌰𐍂  
 *quer.*  / martetor / Martetor
 </small>
 
@@ -27,7 +27,7 @@
 
 <small>
 *nith.*  / kwelessa / Cuelessa  
-*ner.*  / hʷiliza / 𐍈𐌹𐌻𐌹𐌶𐌰  
+*ner.*  / hʷilis / 𐍈𐌹𐌻𐌹𐍃  
 *quer.*  / kʷilissa / Quilissa  
 </small>
 
@@ -51,7 +51,7 @@
 
 <small>
 *nith.*  / tersema / Tersema  
-*ner.*  / θirzimaðaː / 𐌸𐌹𐍂𐌶𐌹𐌼𐌰𐌳𐌰  
+*ner.*  / θɛrsimaðoː / 𐌸𐌰𐌹𐍂𐍃𐌹𐌼𐌰𐌳𐍉  
 *quer.*  / terzemataː / Terzemata
 </small>
 
