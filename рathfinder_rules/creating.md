@@ -134,24 +134,28 @@ During character creation, there are 4 steps that are used to determine your abi
 
 ### Step 6. Skills
 
-While your character’s ability scores represent their raw talent and potential, skills represent their training and experience at performing certain tasks. Each skill is keyed to one of your character’s ability scores and used for an array of related actions. During character creation, you become trained in a number of skills; some of them are specified by your class, background, or selected feats, but you also can freely select several of them (as indicated in class entry). Having a high Intelligence score gives you additional trained skills.
+*While your character’s ability scores represent their raw talent and potential, skills represent their training and experience at performing certain tasks. Each skill is keyed to one of your character’s ability scores and used for an array of related actions.*
+
+During character creation, you become trained in a number of skills; some of them are specified by your class, background, or selected feats, but you also can freely select several of them (as indicated in class entry). Having a high Intelligence score gives you additional trained skills.
 
 !!! note
     If several sourcer give you trained proficiency in one skill, you gain proficiency in it and can become trained in any other skill for each extra source.
 
 ### Step 7. Feats
 
-Feats represent specialized abilities or training that your character possesses. There are several different types of feats. Ancestry feats, archetype feats, and class feats are located on their respective ancestry, archetype, or class page.
+*Feats represent specialized abilities or training that your character possesses. There are several different types of feats. Ancestry feats, archetype feats, and class feats are located on their respective ancestry, archetype, or class page.*
 
-
+At 1st level you gain Ancestry Feat. Usually you gain specific Skill Feat provided by Background. Also, some classes provide Class Feat at 1st level.
 
 ### Step 8. Spells
 
-Some classes, including the bard, cleric, druid, sorcerer, and wizard, get access to spellcasting as part of their class features, but other classes can also gain spellcasting ability from their class feats, by taking certain archetypes, or by taking certain ancestry feats that grant focus spells, innate spells, or cantrips. Spellcasting can be either prepared or spontaneous; If you’re a prepared spellcaster—such as a cleric, druid, or wizard—you must spend time each day preparing spells for that day. At the start of your daily preparations, you select a number of spells of different spell levels determined by your character level and class. Your spells remain prepared until you cast them or until you prepare spells again. If you’re a spontaneous spellcaster—such as a bard or a sorcerer—you choose which spell you’re using a spell slot for at the moment you decide to cast it. This provides you with more freedom in your spellcasting, but you have fewer spells in your spell repertoire, as determined by your character level and class. When you make your daily preparations, all your spell slots are refreshed, but you don’t get to change the spells in your repertoire.
+*Some classes, including the bard, cleric, druid, sorcerer, and wizard, get access to spellcasting as part of their class features, but other classes can also gain spellcasting ability from their class feats, by taking certain archetypes, or by taking certain ancestry feats that grant focus spells, innate spells, or cantrips.*
 
-All spells can be found under the Spells/Rituals tab on the sidebar. There are four traditions of spellcasting (arcane, divine, occult, and primal) and each tradition has access to a different list of spells that they can cast. Spells can also be divided into eight schools based on their effects; on each of the tradition's spell list there is the option to sort by school.
+Spellcasting can be either **prepared** or **spontaneous**; If you’re a **prepared spellcaster** — such as a cleric, druid, or wizard — you must spend time each day preparing spells for that day. At the start of your daily preparations, you select a number of spells of different spell levels determined by your character level and class. Your spells remain prepared until you cast them or until you prepare spells again. If you’re a **spontaneous spellcaster** — such as a bard or a sorcerer — you choose which spell you’re using a spell slot for at the moment you decide to cast it. This provides you with more freedom in your spellcasting, but you have fewer spells in your spell repertoire, as determined by your character level and class. When you make your daily preparations, all your spell slots are refreshed, but you don’t get to change the spells in your repertoire.
 
-Characters of spellcasting classes can cast a certain number of spells each day; the spells you can cast in a day are referred to as spell slots. At 1st level, a character has only a small number of 1st-level spell slots per day, but as you advance in level, you gain more spell slots and new slots for higher-level spells. A spell’s level indicates its overall power, from 1 to 10. Additionally, both prepared and spontaneous spellcasters can cast a spell at a higher spell level than that listed for the spell. This is called heightening the spell. A prepared spellcaster can heighten a spell by preparing it in a higher-level slot than its normal spell level, while a spontaneous spellcaster can heighten a spell by casting it using a higher-level spell slot, so long as they know the spell at that level. When you heighten your spell, the spell’s level increases to match the higher level of the spell slot you’ve prepared it in or used to cast it. This is useful for any spell, because some effects, such as counteracting, depend on the spell’s level, but many spells have additional specific benefits when they are heightened, such as increased damage. These extra benefits are described at the end of the spell’s stat block.
+All spells can be found under the [Spells](https://2e.aonprd.com/Spells.aspx). There are four traditions of spellcasting (**arcane**, **divine**, **occult**, and **primal**) and each tradition has access to a different list of spells that they can cast.
+
+Characters of spellcasting classes can cast a certain number of spells each day; the spells you can cast in a day are referred to as **spell slots**. At 1st level, a character has only a small number of 1st-level spell slots per day, but as you advance in level, you gain more spell slots and new slots for higher-level spells. A spell’s level indicates its overall power, from 1 to 10.
 
 ### Step 9. Equipment
 
