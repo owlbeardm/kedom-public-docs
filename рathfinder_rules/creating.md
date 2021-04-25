@@ -99,7 +99,7 @@ In this setting rarity of Ancestries and Classes are differs from original rules
 
 - Pick the ancestry itself: [Ancestries](https://2e.aonprd.com/Ancestries.aspx).
 - Select a **heritage** from those available within that ancestry (Can be found in Heritages submenu on selected Ancestry page). In addition to the ancestry-specific heritages, all ancestries can instead take a [versatile heritage](https://2e.aonprd.com/Ancestries.aspx?Versatile=true) such as tiefling or dhampir. In addition, humans also have [special](https://2e.aonprd.com/Ancestries.aspx?HalfHuman=true) half-elf and half-orc heritage options.
-- Choose an **ancestry feat**, representing an ability your hero learned at an early age. (Can be found in Feats submenu on selected Ancestry page)
+- Note that you will be choosing an **ancestry feat** later. Ancestry feat represents an ability your hero learned at an early age. (Can be found in Feats submenu on selected Ancestry page)
 
 ### Step 3. Class
 
