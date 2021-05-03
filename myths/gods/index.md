@@ -11,7 +11,6 @@
 | [Tersemata](queran/#tersemata)                                           | Queran pantheon | NG  | **Earth**, **Family**, **Healing**, **Nature**, Protection, Water        | Sickle         |
 | [Ashul Ez <span class="tengwar-elf-font">xj%26T</span>](elder/#ashul-ez) | Elder Gods      | CE  |                                                                          |                |
 
-
 ## Lesser beings
 
 - **Najtre Inviente**

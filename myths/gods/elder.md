@@ -7,11 +7,8 @@
 <!-- <span class="runic-old-font">aʃuluz ez</span>   -->
 <!-- <span class="cirth-dwarf-font">AçULU>< E><</span>   -->
 
-
 <small>
 *old rn.*  / aʃuluz ez / <span class="runic-old-font">aʃuluz∙ez</span>  
-<!-- *ner.*  / marθiðor / 𐌼𐌰𐍂𐌸𐌹𐌳𐍉𐍂   -->
-<!-- *quer.*  / martetor / Martetor -->
 </small>
 
 <!-- **Martetor** is the main god of queran pantheon. God of knowledge and duty. Founder of The Empire. *Martetor* is regarded as the patron and protector of majority of cities and defensive structures. -->
