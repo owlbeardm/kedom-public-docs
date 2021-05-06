@@ -1,64 +1,71 @@
 # Names
 
-## Ñizoles
+## Human
 
-- Spain-like names. **Not Biblical Origin**! [link](http://www.infernaldreams.com/names/Europe/Western/Spain.htm)
+### Ñizoles
 
-## Nerlenders
+- Spain-like names. **Not Biblical Origin**! Example: [Male names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=0), [Female Names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=1144847730).
+- [Hispanic name generator](https://www.fantasynamegenerators.com/hispanic_names.php). Beware of Biblical Origin!
 
-- Goths names [link](http://www.infernaldreams.com/names/Europe/Medieval/Goths.htm)
+### Nerlenders
 
-## Southern
+- Goths names. Example: [Male names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=2044173983), [Female Names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=1912216393).
+- [Gothic name generator](https://www.fantasynamegenerators.com/gothic-names.php).
+
+<!-- ### Southerns -->
+<!-- - TBD -->
+
+## Halflings
+
+- TBD (Like humans in region. Mostly Ñizieles).
+
+## Dwarves
+
+- [Khuzdul name generator](https://www.fantasynamegenerators.com/lotr-dwarf-names.php).
+- Suffixes:
+    - -ul/-and — son/daughter of (family name)
+    - -ûn (-ân) "suffix of specificity" (for alias, X one)
+    <!-- - Singular -->
+        <!-- - CuCC -->
+        <!-- - CaCC -->
+        <!-- - CaːCaC -->
+        <!-- - CuːCuC -->
+        <!-- - CuːCaC -->
+        <!-- - CeːCaC -->
+        <!-- - CaːCiC -->
+        <!-- - CiCC -->
+        <!-- - CeːCeC -->
+        <!-- - CiCiC -->
+        <!-- - uːCCaC -->
+    <!-- - Collective -->
+        <!-- - CuːC -->
+        <!-- - CuCun -->
+        <!-- - CaCaCC -->
+        <!-- - CiCaC -->
+        <!-- - CiCeCC -->
+    <!-- - from verbal roots -->
+        <!-- - CaCiC (adjective) -->
+        <!-- - CeCaC (agental) -->
+        <!-- - CaCaC (agental) -->
+
+## Fairy
+
+### Gnomes
 
 - TBD
 
-## Elven
+### Elves
 
-- Словарь — [tecendil](https://www.tecendil.com/). В нём можно найти слова на **SINDARIN** — эльфийский в этом сеттинге.
-- [http://sindarinlessons.weebly.com/37---how-to-make-names-1.html](http://sindarinlessons.weebly.com/37---how-to-make-names-1.html) — правила объеденения слов.
-    - in-depth guide [https://eldamo.org/content/phonetic-indexes/phonetics-s.html](https://eldamo.org/content/phonetic-indexes/phonetics-s.html)
-- [http://sindarinlessons.weebly.com/38---how-to-make-names-2.html](http://sindarinlessons.weebly.com/38---how-to-make-names-2.html) — суффиксы для имён.
+- Tolkien Sindarin names. [Name generator](https://www.fantasynamegenerators.com/lotr-sindarin-names.php). Example: [Male names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=1965361401), [Female names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=813111400).
+- To make name yourself:
+    - **Sindarin** online dictionary [tecendil](https://www.tecendil.com/).
+    - [Rules to add words in name together](http://sindarinlessons.weebly.com/36---how-to-make-names-1.html).
+        - [in-depth guide](https://eldamo.org/content/phonetic-indexes/phonetics-s.html).
+    - [Suffixes for male and female names](http://sindarinlessons.weebly.com/37---how-to-make-names-2.html).
 
-## Sylvan
+### Sylvans
 
-- Словарь [tecendil](https://www.tecendil.com/). В нём можно найти слова на QUENYA. Это у меня сильванский.
-- [https://folk.uib.no/hnohf/affix~1.htm](https://folk.uib.no/hnohf/affix~1.htm) — суффиксы для имён.
-
-## Gnomish
-
-- Sylvan-like
-- TBD
-
-## Halfling
-
-- Like humans in region (mostly Ñizieles).
-
-## Dwarves 
-
-- Public names [http://www.infernaldreams.com/names/Europe/Medieval/Norse.htm](http://www.infernaldreams.com/names/Europe/Medieval/Norse.htm)
-- True names
-    - -ul — son of (family name)
-    - -and — daughter of (family name)
-    - -ûn (-ân) "suffix of specificity" (for alias, X one) 
-    - Singular
-        - CuCC
-        - CaCC
-        - CaːCaC
-        - CuːCuC
-        - CuːCaC
-        - CeːCaC
-        - CaːCiC
-        - CiCC
-        - CeːCeC
-        - CiCiC
-        - uːCCaC
-    - Collective
-        - CuːC
-        - CuCun
-        - CaCaCC
-        - CiCaC
-        - CiCeCC
-    - from verbal roots
-        - CaCiC (adjective)
-        - CeCaC (agental)
-        - CaCaC (agental)
+- Tolkien Quenya names. [Name generator](https://www.fantasynamegenerators.com/lotr-quenya-names.php). <!--Example: -->
+- To make name yourself:
+    - **Quenya** online dictionary [tecendil](https://www.tecendil.com/).
+    - [Suffixes for male and female names](https://folk.uib.no/hnohf/affix~1.htm).

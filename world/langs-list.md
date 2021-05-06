@@ -11,13 +11,13 @@ This section is sorted in order of frequency of occurrence.
 | **Ñizoles** (human, *common in Ñiziel*,<br/>&nbsp;&nbsp;lingua franca) | - Ñizoleses (*Human nitholans*) <br/>- Halflings<br/>- ... and other common ancestries in the aria  |
 | Nerlendic (human,<br/>&nbsp;&nbsp;*common in Nerlend*)                 | - Human nerlenders<br/>- Elves<br/>- ... and other common ancestries in the aria                    |
 | Valtarchi (human,<br/>&nbsp;&nbsp;*common in Valtam Kelnem*)           | - Human valtarchams<br/>- Querums<br/>- Halflings<br/>- ... and other common ancestries in the aria |
-| **Khuzdûl**                                                            | Khazâd (*Dwarves*)                                                                                  |
+| **Khuzdûl** (Dwarven)                                                  | Khazâd (*Dwarves*)                                                                                  |
 | Halfling                                                               | Halflings                                                                                           |
 | **Iñolerim** (Gnomish)                                                 | Gnomes                                                                                              |
 | **Edhellen**                                                           | - Edhil (*Elves*)  <br/>- Peredhil (*Half-elves*)                                                   |
 | Orcish                                                                 | - Orcs   <br/>- Half-orcs                                                                           |
 | Goblin (close to Orcish)                                               | Goblins, hobgoblins, bugbears                                                                       |
-| **Chultian**                                                           | Chulti (*Ratfolks*)                                                                                 |
+| **Chultian** (Ratfolk)                                                 | Chulti (*Ratfolks*)                                                                                 |
 | Lizardfolk                                                             | Lizardfolks                                                                                         |
 | Ogrish (close to Giant)                                                | - Ogres                                                                                             |
 | Troll (close to Giant)                                                 | - Giants <br/>- Other giant ancestries                                                              |
