@@ -46,4 +46,5 @@
 - Tolkien Quenya names. [Name generator](https://www.fantasynamegenerators.com/lotr-quenya-names.php). <!--Example: -->
 - To make name yourself:
     - **Quenya** online dictionary [tecendil](https://www.tecendil.com/).
+    - [Consonant Shifts](https://phonologyoftolkienselvish.weebly.com/quenya-phonetics-and-phonology.html) for compound words.
     - [Suffixes for male and female names](https://folk.uib.no/hnohf/affix~1.htm).
