@@ -21,32 +21,10 @@
 
 ## Dwarves
 
-- [Khuzdul name generator](https://www.fantasynamegenerators.com/lotr-dwarf-names.php).
+- [Dwarven names](https://docs.google.com/spreadsheets/d/1g0IzYYx9L7eJSJG-DGGJpXfZuZZgfnYLY0QLEYdTE1Y/edit#gid=757651066). Female and Male names are mostly the same.
 - Suffixes:
     - -ul/-and — son/daughter of (family name)
     - -ûn (-ân) "suffix of specificity" (for alias, X one)
-    <!-- - Singular -->
-        <!-- - CuCC -->
-        <!-- - CaCC -->
-        <!-- - CaːCaC -->
-        <!-- - CuːCuC -->
-        <!-- - CuːCaC -->
-        <!-- - CeːCaC -->
-        <!-- - CaːCiC -->
-        <!-- - CiCC -->
-        <!-- - CeːCeC -->
-        <!-- - CiCiC -->
-        <!-- - uːCCaC -->
-    <!-- - Collective -->
-        <!-- - CuːC -->
-        <!-- - CuCun -->
-        <!-- - CaCaCC -->
-        <!-- - CiCaC -->
-        <!-- - CiCeCC -->
-    <!-- - from verbal roots -->
-        <!-- - CaCiC (adjective) -->
-        <!-- - CeCaC (agental) -->
-        <!-- - CaCaC (agental) -->
 
 ## Fairy
 
