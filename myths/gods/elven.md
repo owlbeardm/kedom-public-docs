@@ -24,3 +24,17 @@
 **Follower Alignments**: CG, N, CN, CE
 
 **Gildir** is a god associated with moon. God of night air and freedom of nature.
+
+## Ungorian
+
+<!-- ![Gildir symbol](img/gildir.svg){ width=150; align=right } -->
+
+<small>
+*edh.*  / uŋorian / <span class="tengwar-elf-font">b&7Y`B5#</span>  
+</small>
+
+**Follower Alignments**: CN, NE, CE
+
+**Ungorian** (or **Lolth** in Ñiziel) known as the Queen of Spiders. She is the most influential deamon-goddess of the drow.
+
+It is believed that **Ungorian** was once great elven goddess **Lothrien** the Queen of Blossom before she fell to corruption and evil.
