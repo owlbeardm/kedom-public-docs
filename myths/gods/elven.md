@@ -27,7 +27,7 @@
 
 ## Ungorian
 
-<!-- ![Gildir symbol](img/gildir.svg){ width=150; align=right } -->
+![Ungorian symbol](img/ungorian.svg){ width=150; align=right }
 
 <small>
 *edh.*  / uŋorian / <span class="tengwar-elf-font">b&7Y`B5#</span>  
