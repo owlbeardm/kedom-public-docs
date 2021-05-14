@@ -1,25 +1,22 @@
 # Elder Gods
 
-## Ashul Ez
-
 ![Ashul Ez symbol](img/ashul-ez.png){ width=200; align=right }
 
-<!-- <span class="runic-old-font">aʃuluz ez</span>   -->
-<!-- <span class="cirth-dwarf-font">AçULU>< E><</span>   -->
+## Ashul Ez
 
 <small>
-*old rn.*  / aʃuluz ez / <span class="runic-old-font">aʃuluz∙ez</span>  
+*old rn.*  / aʃul ez / <span class="runic-old-font">aʃul∙ez</span>  
 </small>
 
-<!-- **Martetor** is the main god of queran pantheon. God of knowledge and duty. Founder of The Empire. *Martetor* is regarded as the patron and protector of majority of cities and defensive structures. -->
+There is almost nothing known about **Ashul Ez**. No more than some ancient bogeyman stories.
 
-<!-- **Follower Alignments**: LG, LN, N, LE   -->
+**Follower Alignments**: CN, NE, CE  
 
-<!-- ??? info "Devotee Benefits"
-    **Divine Ability**: Strength or Intelligence  
-    **Divine Font**: Harm/Heal  
-    **Divine Skill**: Society  
-    **Favored Weapon**: Khakkara  
-    **Domains**: [Cities](https://2e.aonprd.com/Domains.aspx?ID=3), [Duty](https://2e.aonprd.com/Domains.aspx?ID=45), [Might](https://2e.aonprd.com/Domains.aspx?ID=20), [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=33)  
-    **Alternate Domains**: [Confidence](https://2e.aonprd.com/Domains.aspx?ID=4), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=36)
-    **Cleric Spells**: 1st: [*mage armor*](https://2e.aonprd.com/Spells.aspx?ID=176), 2nd: [*mirror image*](https://2e.aonprd.com/Spells.aspx?ID=197), 3rd: [*nondetection*](https://2e.aonprd.com/Spells.aspx?ID=209), 4th: [*clairvoyance*](https://2e.aonprd.com/Spells.aspx?ID=40), 5th: [*mind probe*](https://2e.aonprd.com/Spells.aspx?ID=193), 6th: [*scrying*](https://2e.aonprd.com/Spells.aspx?ID=268), 7th: [*spell turning*](https://2e.aonprd.com/Spells.aspx?ID=297), 8th: [*dream council*](https://2e.aonprd.com/Spells.aspx?ID=89), 9th: [*prismatic shield*](https://2e.aonprd.com/Spells.aspx?ID=838) -->
+??? info "Devotee Benefits"
+    **Divine Ability**: Constitution or Intelligence  
+    **Divine Font**: Harm  
+    **Divine Skill**: Arcana  
+    **Favored Weapon**: Shauth Lash  
+    **Domains**: [Destruction](https://2e.aonprd.com/Domains.aspx?ID=8), [Knowledge](https://2e.aonprd.com/Domains.aspx?ID=17), [Tyranny](https://2e.aonprd.com/Domains.aspx?ID=33), [Void](https://2e.aonprd.com/Domains.aspx?ID=56)  
+    **Alternate Domains**: [Glyph](https://2e.aonprd.com/Domains.aspx?ID=46), [Nightmares](https://2e.aonprd.com/Domains.aspx?ID=23)
+    <!-- **Cleric Spells**: 1st: [*mage armor*](https://2e.aonprd.com/Spells.aspx?ID=176) -->

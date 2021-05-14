@@ -21,9 +21,9 @@
     **Alternate Domains**: [Confidence](https://2e.aonprd.com/Domains.aspx?ID=4), [Wealth](https://2e.aonprd.com/Domains.aspx?ID=36)
     <!-- **Cleric Spells**: 1st: [*mage armor*](https://2e.aonprd.com/Spells.aspx?ID=176), 2nd: [*mirror image*](https://2e.aonprd.com/Spells.aspx?ID=197), 3rd: [*nondetection*](https://2e.aonprd.com/Spells.aspx?ID=209), 4th: [*clairvoyance*](https://2e.aonprd.com/Spells.aspx?ID=40), 5th: [*mind probe*](https://2e.aonprd.com/Spells.aspx?ID=193), 6th: [*scrying*](https://2e.aonprd.com/Spells.aspx?ID=268), 7th: [*spell turning*](https://2e.aonprd.com/Spells.aspx?ID=297), 8th: [*dream council*](https://2e.aonprd.com/Spells.aspx?ID=89), 9th: [*prismatic shield*](https://2e.aonprd.com/Spells.aspx?ID=838) -->
 
-## Quilissa
+![Quilissa symbol](img/quilissa.svg){ width=150; align=right }
 
-![Quilissa symbol](img/quilissa.svg){ width=80; align=right }
+## Quilissa
 
 <small>
 *nith.*  / kwelessa / Cuelessa  
