@@ -53,7 +53,7 @@
 
 **Follower Alignments**: CN, NE, CE
 
-**Ungorian** (or **Lolth** in Ñiziel) known as the Queen of Spiders. She is the most influential deamon-goddess of the drow.
+**Ungorian** (or **Lolz** in Ñiziel) known as the Queen of Spiders. She is the most influential deamon-goddess of the drow.
 
 It is believed that **Ungorian** was once great elven goddess **Lothrien** the Queen of Blossom before she fell to corruption and evil.
 
